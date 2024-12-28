@@ -94,4 +94,13 @@ Detects trends and patterns that can influence model predictions.
 
 ### Let’s roll up our sleeves and get coding!
 
+**A Small Story About the Titanic Dataset**
+
+![image](https://github.com/user-attachments/assets/9c096437-0f38-44b8-8d18-2e18733e0c8f)
+
+
+The Titanic dataset takes us back to one of history's most tragic and well-known maritime disasters—the sinking of the RMS Titanic on April 15, 1912. Known as the "unsinkable ship," the Titanic was a luxurious British passenger liner that embarked on its maiden voyage from Southampton to New York City with over 2,200 passengers and crew onboard.
+
+However, the ship struck an iceberg in the North Atlantic and sank, claiming the lives of more than 1,500 people. The Titanic tragedy exposed not only the limits of technology at the time but also the stark socio-economic divides of the early 20th century, as survival rates were significantly influenced by factors such as class, gender, and age.
+
 Opne the [EDA Titanic Dataset](https://github.com/nisalm/EDA/blob/18406da2c1a19068ae9f70913e6bc996eeadfdfc/EDA_of_Titanic_Dataset.ipynb) python notebook. 
