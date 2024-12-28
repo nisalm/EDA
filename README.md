@@ -35,4 +35,4 @@ EDA acts as the quality checkpoint to ensure meaningful results.
 Helps prioritize areas of focus before complex modeling.
 - **Builds Intuition:** For AI practitioners, EDA builds intuition about the data and problem space, aiding better decision-making during model development.
 
-I hope you got the appetite to deep dive into the Exploratory Data Analysis. Buckle up! We’re about to take a ride through the [details of EDA!](https://github.com/nisalm/EDA/blob/aaa4e8e75915c9e9ed2f6101f20e7c241016114b/QualitativeandQuantitativeAnalysis.md)
+I hope you got the appetite to deep dive into the Exploratory Data Analysis. Buckle up! We’re about to take a ride through the [fundementals of EDA!](https://github.com/nisalm/EDA/blob/aaa4e8e75915c9e9ed2f6101f20e7c241016114b/QualitativeandQuantitativeAnalysis.md)
