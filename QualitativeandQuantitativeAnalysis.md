@@ -1,8 +1,11 @@
 # Qualitative and Quantitative Analysis
 
-1. ## Qualitative Analysis**
+## Qualitative Analysis
 
-   Qualitative analysis focuses on understanding the non-numerical attributes of the data. It emphasizes exploring the structure, patterns, relationships, and trends in categorical or descriptive data.
+Qualitative analysis focuses on understanding the non-numerical attributes of the data. It emphasizes exploring the structure, patterns, relationships, and trends in categorical or descriptive data.
+
+- **Nominal:** Categories without an inherent order (e.g., colors, gender).
+- **Ordinal:** Categories with a meaningful order (e.g., rankings, education levels).
 
 Key Features:
 - Deals with categorical or textual data.
@@ -30,8 +33,11 @@ import seaborn as sns
 sns.countplot(x='Gender', hue='Survived', data=data)
 ```
 
-2. ## Quantitative Analysis**
+## Quantitative Analysis
 Quantitative analysis focuses on exploring and summarizing numerical attributes of the data. It involves mathematical and statistical techniques to derive insights from the numbers.
+
+- **Continuous:** Data that can take any value within a range (e.g., height, weight, temperature).
+- **Discrete:** Data that can only take specific values (e.g., number of students, dice rolls).
 
 Key Features:
 - Deals with numerical data (e.g., age, salary, sales).
@@ -68,6 +74,9 @@ sns.scatterplot(x='Age', y='Fare', data=data)
 
 ```
 
+**Qualitative vs. Quantitative in EDA**
+
+Here is the comparison between Qualitative vs Quantitiative Analysis 
 
 | Aspect               | Qualitative Analysis                           | Quantitative Analysis                        |
 |----------------------|-----------------------------------------------|----------------------------------------------|
@@ -76,3 +85,13 @@ sns.scatterplot(x='Age', y='Fare', data=data)
 | **Methods**          | Frequency counts, group comparisons, bar plots| Summary stats, correlations, histograms     |
 | **Examples**         | Survival by gender, product sales by category | Average income, correlation between age and fare |
 
+
+
+
+
+While **Qualitative Analysis** helps understand the distribution and relationships of categorical data, which can guide encoding strategies for AI models, Identifies class imbalances, helping to avoid biased models, **Quantitative Analysis** provides precise insights into numerical data that can guide feature engineering and model selection.
+Detects trends and patterns that can influence model predictions.
+
+### Let’s roll up our sleeves and get coding!
+
+Opne the [EDA Titanic Dataset]() python notebook. 
