@@ -99,8 +99,30 @@ Detects trends and patterns that can influence model predictions.
 ![image](https://github.com/user-attachments/assets/9c096437-0f38-44b8-8d18-2e18733e0c8f)
 
 
-The Titanic dataset takes us back to one of history's most tragic and well-known maritime disasters—the sinking of the RMS Titanic on April 15, 1912. Known as the "unsinkable ship," the Titanic was a luxurious British passenger liner that embarked on its maiden voyage from Southampton to New York City with over 2,200 passengers and crew onboard.
+The Titanic dataset takes us back to one of history's most tragic and well-known maritime disasters—the sinking of the RMS Titanic on April 15, 1912. Known as the **unsinkable ship,** the Titanic was a luxurious British passenger liner that embarked on its maiden voyage from Southampton to New York City with over 2,200 passengers and crew onboard.
 
 However, the ship struck an iceberg in the North Atlantic and sank, claiming the lives of more than 1,500 people. The Titanic tragedy exposed not only the limits of technology at the time but also the stark socio-economic divides of the early 20th century, as survival rates were significantly influenced by factors such as class, gender, and age.
+
+The Titanic dataset is a structured collection of information about the passengers aboard the ship. It contains details such as:
+
+- **Passenger demographics:** Age, gender, and class (1st, 2nd, or 3rd).
+- **Family information:** Number of siblings/spouses and parents/children aboard.
+- **Ticket and fare details:** Ticket number, price paid, and cabin information.
+- **Survival status:** Whether the passenger survived the tragedy or not.
+
+### Why It’s Fascinating
+
+The Titanic dataset offers a unique opportunity to analyze survival patterns and uncover insights into how different factors influenced a passenger's chance of survival.
+
+### A Data Story Waiting to Be Told
+
+Every passenger in the Titanic dataset has their own story:
+
+- A wealthy first-class traveler enjoying luxury cabins.
+- A young third-class immigrant seeking a better life in America.
+- Crew members working hard to ensure the voyage's success.
+By analyzing this dataset, we uncover patterns and insights that not only provide a glimpse into the past but also teach us valuable lessons about human behavior, risk, and survival.
+
+As we explore the dataset through EDA, think of it as piecing together fragments of history to understand the human side of one of the world's most infamous shipwrecks.
 
 Opne the [EDA Titanic Dataset](https://github.com/nisalm/EDA/blob/18406da2c1a19068ae9f70913e6bc996eeadfdfc/EDA_of_Titanic_Dataset.ipynb) python notebook. 
