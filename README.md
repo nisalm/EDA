@@ -8,3 +8,7 @@ Exploratory Data Analysis (EDA) is the process of examining, summarizing, and vi
 4. Summarizing Data: Generating descriptive statistics like mean, median, and standard deviation.
 
 Tools: Python libraries like Pandas, NumPy, Matplotlib, and Seaborn are commonly used for EDA.
+
+Exploratory Data Analysis (EDA) was introduced by John W. Tukey, an American mathematician and statistician, in his seminal book "Exploratory Data Analysis," published in 1977.
+
+
