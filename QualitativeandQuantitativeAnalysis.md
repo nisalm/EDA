@@ -94,4 +94,4 @@ Detects trends and patterns that can influence model predictions.
 
 ### Let’s roll up our sleeves and get coding!
 
-Opne the [EDA Titanic Dataset]() python notebook. 
+Opne the [EDA Titanic Dataset](https://github.com/nisalm/EDA/blob/18406da2c1a19068ae9f70913e6bc996eeadfdfc/EDA_of_Titanic_Dataset.ipynb) python notebook. 
